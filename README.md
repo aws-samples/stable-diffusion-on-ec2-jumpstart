@@ -1,4 +1,4 @@
-# Stable Diffusion One-Click On AWS
+# Stable Diffusion On EC2 jumpstart
 
 **Introduction:**
 
